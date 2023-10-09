@@ -75,7 +75,7 @@
 .container {
     position: relative;
     width: 80%;
-    margin: 2% 10% 2% 10%;
+    margin: 4% 10% 4% 10%;
     animation: slide-in 2s ease-in-out forwards;
     margin-bottom: 3%;
 }
